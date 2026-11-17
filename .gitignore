@@ -1,0 +1,14 @@
+
+.venv/
+src/__pycache__/
+src/check_dataset.py
+src/clean_dataset.py
+src/rule_based_detector.py
+src/test_classifier.py
+src/test_manual_examples.py
+src/test_rule_based.py
+src/train_classifier.py
+data/
+models/
+
+
